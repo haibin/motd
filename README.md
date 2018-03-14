@@ -7,4 +7,6 @@ TODO: Enter the cookbook description here.
 > kitchen list                  # check .kitchen.yml syntax
 > chef generate file motd
 > kitchen converge              # kitchen create; kitchen setup
+> kitchen login                 # validate
+> kitchen destory
 ```
