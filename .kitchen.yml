@@ -14,5 +14,5 @@ platforms:
 suites:
   - name: default
     run_list:
-      - recipe[motd-attributes::default]
+      - recipe[motd::default]
     attributes:
